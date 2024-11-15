@@ -1,0 +1,14 @@
+h1{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn{
+    height: 70px;
+}
+.btn-blue{
+    background-color:blue;
+    color: white;
+}
+.btn-blue:hover{
+    background-color:green;
+}
